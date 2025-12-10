@@ -26,7 +26,7 @@
 <pre><code>cd ps1-x11
 </code></pre>
 
-<h3>3. Change Directory :</h3>
+<h3>3. Change Permission :</h3>
 <pre><code>chmod +x setup.sh
 </code></pre>
 
