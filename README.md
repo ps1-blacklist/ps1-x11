@@ -47,8 +47,8 @@
 <h2 id="download-termux-x11-apk">📲 Download Termux-X11 Apk</h2>
 
 <p>You must install the Termux-X11 app to view the GUI.</p>
-<pre><code>https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk
-</code></pre>
+<pre><a href="https://github.com/termux/termux-x11/releases/download/nightly/app-universal-debug.apk">Download X-11 apk</a>
+</pre>
 <h2>Eror Fix </h2>
 <p>If you face any issue then restart Termux. Check network connection and rerun setup.</p>
 
