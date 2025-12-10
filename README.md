@@ -1,7 +1,6 @@
 <h1 id="ps1-x11">ps1-x11</h1>
 
 <p>
-    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="GitHub license"></a> 
     <a href="README.md"><img src="https://img.shields.io/badge/Status-Active-brightgreen.svg" alt="Status"></a>
     <a href="README.md"><img src="https://img.shields.io/badge/Platform-Termux-yellow.svg" alt="Platform"></a>
 </p>
