@@ -15,6 +15,9 @@
 <h2 id="installation">📥 Installation</h2>
 <p>Copy & paste these commands one by one into Termux:</p>
 
+<h3>Install Git :</h3>
+<pre><code>pkg install git -y</code></pre>
+
 <h3>1. Git Clone</h3>
 <pre><code>git clone https://github.com/ps1-blacklist/ps1-x11.git 
 </code></pre>
