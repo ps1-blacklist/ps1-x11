@@ -55,7 +55,7 @@ pkg install x11-repo -y
 b
 echo -e "${G}⚡ Installing X11-Nightly...${E}"
 b
-pkg install termux-x11-nightly
+pkg install termux-x11-nightly -y
 b
 echo -e "${G}⚡ Installing Xfce4...${E}"
 b
