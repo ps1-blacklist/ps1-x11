@@ -47,7 +47,7 @@ pkg update -y
 b
 echo -e "${G}⚡ Upgrading System...${E}"
 b
-pkg upgrade -y
+pkg upgrade -y -o Dpkg::Options::="--force-confnew"
 b
 echo -e "${G}⚡ Installing X11-repo...${E}"
 b
